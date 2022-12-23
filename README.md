@@ -8,7 +8,7 @@ Let me guess, are you here for..
 
 Let me help you out! 😎
 
-Lets talk about it over a cup of coffee if it is specifically built in **Javascript**, **.NET**, **Java (Springboot)** or **Python** 🤩
+Lets talk about it over a cup of coffee. ☕
 
-- Didn't find any **public** repositories? 😔 
-Don't worry! I keep my clients' work in private repos so they trust me. But I can still show you what I've been working on so far in a quick session! 😊
+My Technology Stack:
+**Javascript** (Angular and React), **Java (Springboot)**, **NodeJS** & occassionally **Python**, **.NET**
