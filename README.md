@@ -1,4 +1,5 @@
-👋 Hi, I’m @Hassan-Adnan, a Full-Stack developer. 
+👋 Hi, I’m @HassanAdnan123, a Full-Stack developer.
+My Dev Portfolio: www.hassan-adnan.netlify.app
 
 Let me guess, are you here for..
 
@@ -7,8 +8,6 @@ Let me guess, are you here for..
 - Having optimization issues?
 
 Let me help you out! 😎
-
-Lets talk about it over a cup of coffee. ☕
 
 My Technology Stack:
 **Javascript** (Angular and React), **Java (Springboot)**, **NodeJS** & occassionally **Python**, **.NET**
