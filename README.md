@@ -1,4 +1,4 @@
-### Occasionally pushing stuff here, otherwise helping companies scale their businesses through developing good products.
+## <p> Occasionally pushing stuff here, otherwise helping companies scale their businesses through developing good products. </p>
 
 I personally love development, specifically in:<br/>
 <img height="30" src="https://raw.githubusercontent.com/HassanAdnan123/portfolio/master/src/Assets/Icons/java.png" alt="Java Icon"/>&nbsp;&nbsp;&&nbsp;&nbsp;
